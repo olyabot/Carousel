@@ -36,14 +36,14 @@ body {
   border: 1px solid #ABABAB;
   vertical-align: top;
 }
-/*
+
 .slides > .slide:first-child {
   margin-left: 0;
 }
 
 .slides > .slide:last-child {
   margin-right: 0;
-} */
+}
 
 .slides > .slide img {
   max-width: 100%;
